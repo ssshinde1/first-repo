@@ -11,6 +11,7 @@
 public class Console {
     public static void main(String[] args) {
         System.out.println("Hello GitHub");
+        System.out.println("Yey, I created a report on GitHub");
         
     }
           
